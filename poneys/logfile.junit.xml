@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="" tests="13" assertions="13" errors="0" failures="0" skipped="0" time="0.012164">
+    <testsuite name="Poneys" file="C:\Users\asl\Documents\Qualité logicielle\insa\poneys\src\Poneys.php" tests="12" assertions="12" errors="0" failures="0" skipped="0" time="0.012133">
+      <testsuite name="PoneysTest" file="C:\Users\asl\Documents\Qualité logicielle\insa\poneys\tests\PoneysTest.php" tests="12" assertions="12" errors="0" failures="0" skipped="0" time="0.012133">
+        <testcase name="testRemovePoneyFromField" class="PoneysTest" classname="PoneysTest" file="C:\Users\asl\Documents\Qualité logicielle\insa\poneys\tests\PoneysTest.php" line="26" assertions="1" time="0.003389"/>
+        <testcase name="testRemovePoneyFromFieldExceptionCount" class="PoneysTest" classname="PoneysTest" file="C:\Users\asl\Documents\Qualité logicielle\insa\poneys\tests\PoneysTest.php" line="35" assertions="1" time="0.000216"/>
+        <testcase name="testRemovePoneyFromFieldExceptionNumber" class="PoneysTest" classname="PoneysTest" file="C:\Users\asl\Documents\Qualité logicielle\insa\poneys\tests\PoneysTest.php" line="42" assertions="1" time="0.000032"/>
+        <testsuite name="PoneysTest::testRemovePoneyFromFieldProvider" tests="2" assertions="2" errors="0" failures="0" skipped="0" time="0.000047">
+          <testcase name="testRemovePoneyFromFieldProvider with data set #0" class="PoneysTest" classname="PoneysTest" file="C:\Users\asl\Documents\Qualité logicielle\insa\poneys\tests\PoneysTest.php" line="52" assertions="1" time="0.000025"/>
+          <testcase name="testRemovePoneyFromFieldProvider with data set #1" class="PoneysTest" classname="PoneysTest" file="C:\Users\asl\Documents\Qualité logicielle\insa\poneys\tests\PoneysTest.php" line="52" assertions="1" time="0.000022"/>
+        </testsuite>
+        <testcase name="testAddPoneyFromField" class="PoneysTest" classname="PoneysTest" file="C:\Users\asl\Documents\Qualité logicielle\insa\poneys\tests\PoneysTest.php" line="59" assertions="1" time="0.000021"/>
+        <testsuite name="PoneysTest::testHasEnougthSpace" tests="2" assertions="2" errors="0" failures="0" skipped="0" time="0.000040">
+          <testcase name="testHasEnougthSpace with data set #0" class="PoneysTest" classname="PoneysTest" file="C:\Users\asl\Documents\Qualité logicielle\insa\poneys\tests\PoneysTest.php" line="71" assertions="1" time="0.000021"/>
+          <testcase name="testHasEnougthSpace with data set #1" class="PoneysTest" classname="PoneysTest" file="C:\Users\asl\Documents\Qualité logicielle\insa\poneys\tests\PoneysTest.php" line="71" assertions="1" time="0.000019"/>
+        </testsuite>
+        <testsuite name="PoneysTest::testSetUp" tests="3" assertions="3" errors="0" failures="0" skipped="0" time="0.000053">
+          <testcase name="testSetUp with data set #0" class="PoneysTest" classname="PoneysTest" file="C:\Users\asl\Documents\Qualité logicielle\insa\poneys\tests\PoneysTest.php" line="81" assertions="1" time="0.000019"/>
+          <testcase name="testSetUp with data set #1" class="PoneysTest" classname="PoneysTest" file="C:\Users\asl\Documents\Qualité logicielle\insa\poneys\tests\PoneysTest.php" line="81" assertions="1" time="0.000017"/>
+          <testcase name="testSetUp with data set #2" class="PoneysTest" classname="PoneysTest" file="C:\Users\asl\Documents\Qualité logicielle\insa\poneys\tests\PoneysTest.php" line="81" assertions="1" time="0.000017"/>
+        </testsuite>
+        <testcase name="testGetNames" class="PoneysTest" classname="PoneysTest" file="C:\Users\asl\Documents\Qualité logicielle\insa\poneys\tests\PoneysTest.php" line="90" assertions="1" time="0.008335"/>
+      </testsuite>
+    </testsuite>
+    <testsuite name="New" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="0.000031">
+      <testsuite name="NewTest" file="C:\Users\asl\Documents\Qualité logicielle\insa\poneys\tests\NewTest.php" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="0.000031">
+        <testcase name="testAddPoneyFromField" class="NewTest" classname="NewTest" file="C:\Users\asl\Documents\Qualité logicielle\insa\poneys\tests\NewTest.php" line="24" assertions="1" time="0.000031"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>
